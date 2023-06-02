@@ -1,0 +1,116 @@
+body{
+    background-color: darkgreen;
+}
+div.signupHeader {
+    text-align: left;
+}
+.alignLeft{
+    text-align: left;
+}
+div.signupHeader h1{
+position: absolute;
+width: 696px;
+height: 153px;
+left: 24px;
+top: 215px;
+color: white;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 25px;
+line-height: 61px;
+margin-top: 40px;
+}
+
+div.signupBody form{
+	margin:0 auto;
+	width: 450px;
+    height: 500px;
+	background: #39683a ;
+	padding:50px;
+	border:2px  #386839;
+    border-radius: 25px;
+    position: absolute;
+    left: 768px;
+    top: 50px;
+}
+
+div.InputsignupContainer{
+margin-top: 20px;
+border-radius: 120px;
+display: block;
+
+
+}
+div.signupContainer label{
+    position: absolute;
+    width: 696px;
+    height: 100px;
+    left: 180px;
+    top: 20px;
+    color: white;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 61px;
+    margin-top: -3px;
+}
+
+div.InputsignupContainer label{
+    display: block;
+    width: 200px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin-top: 20px;
+    padding-top: 10px;
+
+}
+div.InputsignupContainer input{
+    height: 30px;
+    width: 440px;
+    border-radius: 20px;
+    background: #618661;
+    border: 10px solid #618661;
+    margin-top: 10px;
+}
+div.signupButtonContainer button {
+    background: #EF6B48;
+    border-radius: 20px;
+    display: block;
+    font-size: 20px;
+    border: 10px solid #EF6B48;
+    margin-top: 40px;
+    margin-left: 175px;  
+}
+div.signup p {
+    position: absolute;
+    width: 696px;
+    height: 80px;
+    right: -240px;
+    bottom: 10px;
+    color: white;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 61px;
+    font-family: 'Inter';
+}
+div.signup a {
+    position: absolute;
+    text-decoration: none;
+    width: 696px;
+    height: 108px;
+    right: -525px;
+    bottom: 10px;
+    color: white;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 61px;
+}
+
